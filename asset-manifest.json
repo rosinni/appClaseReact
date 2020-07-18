@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/appClaseReact/static/css/main.4bc51745.chunk.css",
+    "main.js": "/appClaseReact/static/js/main.7cd41879.chunk.js",
+    "main.js.map": "/appClaseReact/static/js/main.7cd41879.chunk.js.map",
+    "runtime-main.js": "/appClaseReact/static/js/runtime-main.29054811.js",
+    "runtime-main.js.map": "/appClaseReact/static/js/runtime-main.29054811.js.map",
+    "static/js/2.09d303fd.chunk.js": "/appClaseReact/static/js/2.09d303fd.chunk.js",
+    "static/js/2.09d303fd.chunk.js.map": "/appClaseReact/static/js/2.09d303fd.chunk.js.map",
+    "index.html": "/appClaseReact/index.html",
+    "precache-manifest.41a5319a6e936e4d70ed9d1e3315283b.js": "/appClaseReact/precache-manifest.41a5319a6e936e4d70ed9d1e3315283b.js",
+    "service-worker.js": "/appClaseReact/service-worker.js",
+    "static/css/main.4bc51745.chunk.css.map": "/appClaseReact/static/css/main.4bc51745.chunk.css.map",
+    "static/js/2.09d303fd.chunk.js.LICENSE.txt": "/appClaseReact/static/js/2.09d303fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29054811.js",
+    "static/js/2.09d303fd.chunk.js",
+    "static/css/main.4bc51745.chunk.css",
+    "static/js/main.7cd41879.chunk.js"
+  ]
+}
